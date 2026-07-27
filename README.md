@@ -85,10 +85,10 @@ financial-reporting-variance-analysis/
 ## Project Roadmap
 
 * [x] Create the GitHub repository and initial README
-* [ ] Define the business scenario and dataset structure
-* [ ] Generate the source datasets
-* [ ] Prepare the Excel analysis workbook
-* [ ] Build the Power Query transformation workflow
+* [x] Define the business scenario and dataset structure
+* [x] Generate the source datasets
+* [x] Prepare the Excel analysis workbook
+* [x] Build the Power Query transformation workflow
 * [ ] Perform SQL analysis and validation
 * [ ] Build the Power BI data model
 * [ ] Create the financial reporting dashboard
