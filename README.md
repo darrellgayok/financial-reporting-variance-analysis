@@ -16,6 +16,22 @@ The objective is to compare actual financial performance against budget, identif
 
 The project demonstrates how Excel, Power Query, SQL and Power BI can be integrated across a practical finance reporting workflow.
 
+## Stage 1 Preview
+
+Stage 1 established the Excel and Power Query reporting foundation, including data transformation, reconciliation controls, Budget vs Actual reporting and exception monitoring.
+
+### Management Control Overview
+
+The control page provides a high-level view of reporting status, annual financial performance, open exceptions and workbook navigation.
+
+![Management Control Overview](images/stage1_00_control.png)
+
+### Budget vs Actual Performance
+
+The monthly management reporting view compares actual and budget performance across revenue, costs and operating profit, supported by variance analysis and monthly trend reporting.
+
+![Budget vs Actual Performance](images/stage1_02_budget_vs_actual.png)
+
 ## Business Objective
 
 Management requires a reliable monthly reporting process to understand:
