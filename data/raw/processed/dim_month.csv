@@ -1,0 +1,13 @@
+﻿MonthKey,MonthStartDate,MonthEndDate,MonthName,MonthShortName,MonthNumber,Quarter,QuarterNumber,Year,YearMonthSort,DaysInMonth,IsQuarterEnd,IsYearEnd,ReportingStatus
+2025-01,1/1/2025,31/1/2025,January,Jan,1,Q1,1,2025,202501,31,No,No,Closed
+2025-02,1/2/2025,28/2/2025,February,Feb,2,Q1,1,2025,202502,28,No,No,Closed
+2025-03,1/3/2025,31/3/2025,March,Mar,3,Q1,1,2025,202503,31,Yes,No,Closed
+2025-04,1/4/2025,30/4/2025,April,Apr,4,Q2,2,2025,202504,30,No,No,Closed
+2025-05,1/5/2025,31/5/2025,May,May,5,Q2,2,2025,202505,31,No,No,Closed
+2025-06,1/6/2025,30/6/2025,June,Jun,6,Q2,2,2025,202506,30,Yes,No,Closed
+2025-07,1/7/2025,31/7/2025,July,Jul,7,Q3,3,2025,202507,31,No,No,Closed
+2025-08,1/8/2025,31/8/2025,August,Aug,8,Q3,3,2025,202508,31,No,No,Closed
+2025-09,1/9/2025,30/9/2025,September,Sep,9,Q3,3,2025,202509,30,Yes,No,Closed
+2025-10,1/10/2025,31/10/2025,October,Oct,10,Q4,4,2025,202510,31,No,No,Closed
+2025-11,1/11/2025,30/11/2025,November,Nov,11,Q4,4,2025,202511,30,No,No,Closed
+2025-12,1/12/2025,31/12/2025,December,Dec,12,Q4,4,2025,202512,31,Yes,Yes,Closed
