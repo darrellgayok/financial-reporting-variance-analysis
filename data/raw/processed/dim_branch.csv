@@ -1,5 +1,0 @@
-﻿BranchID,BranchName,City,State,Region,BranchType,OpeningDate,BranchStatus,CostCentreCode,Description
-BR01,Kuching Branch,Kuching,Sarawak,Southern,Head Office and Sales Branch,15/1/2018,Active,CC-KCH,Main administrative office and largest sales branch.
-BR02,Sibu Branch,Sibu,Sarawak,Central,Sales and Service Branch,1/4/2019,Active,CC-SBW,Supports customers across the central Sarawak market.
-BR03,Bintulu Branch,Bintulu,Sarawak,North-Central,Sales and Service Branch,6/7/2020,Active,CC-BTU,Serves industrial and commercial customers in the Bintulu area.
-BR04,Miri Branch,Miri,Sarawak,Northern,Sales and Service Branch,8/3/2021,Active,CC-MYY,Serves customers across the northern Sarawak market.

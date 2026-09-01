@@ -1,5 +1,0 @@
-﻿DepartmentID,DepartmentName,DepartmentCategory,DepartmentManager,CostCentreCode,DepartmentStatus,PrimaryFunction,Description
-D01,Sales,Revenue Generating,Alicia Wong,CC-SALES,Active,Customer acquisition and revenue generation,"Responsible for product sales, service sales, customer relationships and branch-level revenue performance."
-D02,Operations,Operational Support,Daniel Ling,CC-OPS,Active,Service delivery and operational execution,"Coordinates installation, maintenance, delivery, service support and other operational activities."
-D03,Administration,Corporate Support,Nur Aisyah Rahman,CC-ADMIN,Active,Office administration and general support,"Manages office administration, facilities, supplies, documentation and general corporate support."
-D04,Finance and Human Resources,Corporate Support,Jonathan Lee,CC-FINHR,Active,"Financial control, reporting and people administration","Responsible for accounting, budgeting, financial reporting, payroll, recruitment and employee administration."
