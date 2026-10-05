@@ -230,6 +230,3 @@ financial_reporting_variance_analysis.pbix
 Return to the main project documentation:
 
 [Financial Reporting & Variance Analysis](../README.md)
-```
-
-This version gives the Power BI folder its own purpose: **model design, report architecture, DAX structure and reconciliation**, while leaving the overall project story to the main README.
